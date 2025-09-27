@@ -1,0 +1,38 @@
+{
+  "name": "zepto-stock-api",
+  "version": "1.0.0",
+  "description": "Advanced Stock Availability API with Parent-Child SKU Hierarchy and Performance Optimization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "setup": "node database/setup.js",
+    "test": "node test/api-test.js",
+    "benchmark": "node test/performance-test.js"
+  },
+  "keywords": [
+    "stock",
+    "api",
+    "performance",
+    "caching",
+    "hierarchy"
+  ],
+  "author": "Zepto ETL Assignment",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "compression": "^1.7.4",
+    "node-cache": "^5.1.2",
+    "csv-parser": "^3.0.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

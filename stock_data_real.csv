@@ -1,0 +1,1301 @@
+date,city_name,product_id,product_name,category,total_orders,total_sales,stock_quantity,instock_darkstores,OOS_darkstores,total_darkstores
+9/5/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,534,100,53,1,54
+9/14/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,16,1456,100,50,29,79
+9/15/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1183,107,49,5,54
+9/21/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,60,43,51,94
+9/9/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,22,2002,292,136,22,158
+9/11/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,94,46,33,79
+9/17/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,17,1547,311,124,34,158
+9/15/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,5,455,43,31,63,94
+9/21/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,21,1911,322,139,19,158
+9/17/2025,mumbai,SKU5,Nail Clipper,Hygiene,6,1008,129,68,26,94
+9/23/2025,mumbai,SKU5,Nail Clipper,Hygiene,10,1540,124,61,33,94
+9/22/2025,hyderabad,SKU5,Nail Clipper,Hygiene,12,1956,216,76,3,79
+9/12/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3969,338,145,13,158
+9/25/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,3,510,156,51,3,54
+9/19/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1560,144,51,3,54
+9/13/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,9,1755,131,53,1,54
+9/10/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1536,118,51,3,54
+9/24/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4008,407,146,12,158
+9/3/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4464,324,148,10,158
+9/17/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,4,796,124,42,12,54
+9/26/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,0,0,116,41,13,54
+9/25/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,10,1990,150,71,23,94
+9/1/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1128,63,41,13,54
+9/22/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,36,7164,182,107,41,148
+9/18/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,17,3383,146,65,14,79
+9/12/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3920,255,137,21,158
+9/11/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1176,42,28,51,79
+9/9/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,4,784,53,39,15,54
+9/9/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,9,1764,58,35,44,79
+9/16/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,19,3781,293,139,19,158
+9/10/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,7,1610,216,138,20,158
+9/9/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1380,50,36,43,79
+9/13/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,28,5544,132,87,61,148
+9/10/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,23,4715,102,45,9,54
+9/3/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,93,18414,465,139,9,148
+9/21/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,76,15124,195,69,25,94
+9/10/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,76,15580,732,155,3,158
+9/25/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,89,17711,895,154,4,158
+9/1/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,65,13065,190,66,28,94
+9/5/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,32,6432,205,57,22,79
+9/17/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,95,18905,487,141,7,148
+9/6/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,94,18612,350,127,21,148
+9/18/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,104,20696,472,143,5,148
+9/13/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,89,17711,643,150,8,158
+9/20/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/12/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,16,3328,190,50,29,79
+9/9/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,37,7696,108,51,43,94
+9/9/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/22/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,55,10945,322,131,17,148
+9/4/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,34,6800,210,62,17,79
+9/6/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,23,4600,313,142,16,158
+9/16/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,66,13134,270,77,17,94
+9/6/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,58,11600,230,85,9,94
+9/15/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,9455,206,94,54,148
+9/13/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,7,2177,42,29,65,94
+9/7/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,8164,120,52,42,94
+9/18/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,26,5772,106,60,88,148
+9/3/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,28,6944,208,99,49,148
+9/1/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,20,5080,132,65,29,94
+9/9/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,16,5424,109,63,31,94
+9/4/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,27,6858,150,65,29,94
+9/12/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,2,676,43,30,24,54
+9/9/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,25,8425,181,98,50,148
+9/14/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5235,228,145,13,158
+9/20/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,10,3490,217,132,26,158
+9/14/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3839,37,24,70,94
+9/17/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,6,2094,66,45,9,54
+9/14/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1745,55,43,11,54
+9/23/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,12,3768,47,32,62,94
+9/13/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2792,79,44,35,79
+9/20/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,2,698,73,44,10,54
+9/11/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,910,125,78,70,148
+9/25/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,546,142,52,2,54
+9/24/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,8,624,134,74,74,148
+9/22/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,3,240,122,52,2,54
+9/4/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,890,117,81,67,148
+9/15/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,9,819,119,75,73,148
+9/13/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,107,49,30,79
+9/3/2025,mumbai,SKU5,Nail Clipper,Hygiene,12,2172,153,88,6,94
+9/3/2025,chennai,SKU5,Nail Clipper,Hygiene,4,724,130,49,5,54
+9/15/2025,chennai,SKU5,Nail Clipper,Hygiene,2,356,66,29,25,54
+9/13/2025,bangalore,SKU5,Nail Clipper,Hygiene,18,3204,369,144,14,158
+9/11/2025,mumbai,SKU5,Nail Clipper,Hygiene,6,1116,137,83,11,94
+9/24/2025,hyderabad,SKU5,Nail Clipper,Hygiene,17,2550,194,71,8,79
+9/24/2025,mumbai,SKU5,Nail Clipper,Hygiene,9,1350,146,71,23,94
+9/18/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1560,150,53,1,54
+9/16/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,9,1674,149,91,57,148
+9/22/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,28,4676,185,103,45,148
+9/5/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3720,344,143,15,158
+9/20/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,18,3582,104,75,73,148
+9/20/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,5,995,123,44,10,54
+9/4/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,21,3948,242,133,25,158
+9/5/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3760,274,139,19,158
+9/1/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,17,3196,143,72,7,79
+9/24/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,17,3077,286,138,20,158
+9/10/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1380,47,32,47,79
+9/2/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3184,114,62,17,79
+9/6/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,22,4378,126,63,31,94
+9/3/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2189,93,56,23,79
+9/10/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,20,4560,114,72,76,148
+9/5/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2189,253,151,7,158
+9/7/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,13,2587,76,46,33,79
+9/18/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,66,13134,196,79,15,94
+9/23/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,106,21094,466,135,13,148
+9/13/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,40,7960,187,51,3,54
+9/21/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,32,6368,115,33,21,54
+9/18/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,28,5572,214,53,1,54
+9/24/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,57,11343,391,75,4,79
+9/16/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,64,12736,790,143,15,158
+9/14/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,105,20895,453,140,8,148
+9/20/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,54,10746,317,129,19,148
+9/26/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,414,139,9,148
+9/14/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,55,10945,118,50,44,94
+9/10/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,21,4368,315,144,14,158
+9/15/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,40,7960,161,52,42,94
+9/18/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,55,10945,300,126,22,148
+9/14/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,58,11542,277,116,32,148
+9/20/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,33,9273,391,138,20,158
+9/22/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,19,5225,103,58,90,148
+9/12/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,14,4760,317,132,26,158
+9/22/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,9,2475,33,18,36,54
+9/18/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,37,10619,170,57,37,94
+9/18/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,15,4305,148,44,10,54
+9/8/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,14,4760,347,142,16,158
+9/24/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,25,6750,141,62,17,79
+9/21/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,41,11275,463,134,24,158
+9/22/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,17,4675,166,65,14,79
+9/7/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,8,2016,78,42,37,79
+9/9/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,3,1017,56,37,17,54
+9/26/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,0,0,235,99,49,148
+9/14/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,4598,254,139,19,158
+9/3/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,22,5566,175,75,19,94
+9/3/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,18,4536,291,146,12,158
+9/25/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,22,6908,258,141,17,158
+9/26/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,0,0,239,134,24,158
+9/1/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,14,4956,165,74,5,79
+9/12/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,1,503,55,41,13,54
+9/22/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3839,285,145,13,158
+9/21/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3839,228,134,24,158
+9/11/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,13,6539,250,150,8,158
+9/19/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,17,5933,142,83,65,148
+9/9/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,18,9018,150,92,56,148
+9/16/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,22,7678,231,144,14,158
+9/26/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,0,0,240,65,29,94
+9/22/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1745,48,33,61,94
+9/5/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3894,234,152,6,158
+9/9/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,6,3018,88,48,46,94
+9/10/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,101,51,3,54
+9/10/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,103,49,30,79
+9/3/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,979,84,45,49,94
+9/13/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,5,455,37,26,68,94
+9/23/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,780,142,54,0,54
+9/4/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,21,1869,186,70,9,79
+9/21/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,4,364,106,43,11,54
+9/3/2025,bangalore,SKU5,Nail Clipper,Hygiene,15,2715,407,153,5,158
+9/16/2025,mumbai,SKU5,Nail Clipper,Hygiene,13,2236,136,75,19,94
+9/19/2025,delhi,SKU5,Nail Clipper,Hygiene,6,1008,152,104,44,148
+9/9/2025,delhi,SKU5,Nail Clipper,Hygiene,17,3162,189,128,20,148
+9/2/2025,chennai,SKU5,Nail Clipper,Hygiene,4,724,133,50,4,54
+9/7/2025,mumbai,SKU5,Nail Clipper,Hygiene,21,3801,152,88,6,94
+9/19/2025,chennai,SKU5,Nail Clipper,Hygiene,3,504,49,21,33,54
+9/13/2025,delhi,SKU5,Nail Clipper,Hygiene,19,3382,183,129,19,148
+9/13/2025,chennai,SKU5,Nail Clipper,Hygiene,2,356,74,35,19,54
+9/26/2025,chennai,SKU5,Nail Clipper,Hygiene,0,0,169,53,1,54
+9/4/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4440,276,132,16,148
+9/8/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,26,4914,346,147,11,158
+9/26/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,0,0,210,82,12,94
+9/21/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,12,2232,356,141,17,158
+9/12/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3780,175,62,17,79
+9/2/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4440,271,134,14,148
+9/14/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1560,128,52,2,54
+9/6/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,34,6290,273,133,15,148
+9/11/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,15,2835,119,53,26,79
+9/19/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,10,1860,158,94,54,148
+9/3/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,10,1860,120,69,25,94
+9/26/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,0,0,268,75,4,79
+9/13/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,11,2189,112,64,30,94
+9/25/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,28,5068,180,101,47,148
+9/26/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,0,0,291,141,17,158
+9/24/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,9,1629,95,47,32,79
+9/8/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,460,61,37,42,79
+9/1/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,53,10653,345,75,4,79
+9/24/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,87,17313,921,157,1,158
+9/4/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,39,7839,235,72,22,94
+9/2/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,22,4422,120,49,5,54
+9/6/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,14,2814,59,24,30,54
+9/8/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,44,9020,186,62,32,94
+9/1/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,28,5628,92,36,18,54
+9/10/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,12,2460,80,28,51,79
+9/16/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,64,12736,239,68,11,79
+9/16/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,47,9353,190,49,5,54
+9/26/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,0,0,817,150,8,158
+9/11/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,55,11275,158,73,21,94
+9/15/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/10/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,43,8944,125,66,28,94
+9/2/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,73,14527,306,127,21,148
+9/17/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,59,11741,318,132,16,148
+9/7/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,19,3800,136,46,33,79
+9/22/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/26/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,360,137,21,158
+9/3/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,57,11343,293,126,22,148
+9/6/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,18,3600,152,49,30,79
+9/17/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,7618,252,105,53,158
+9/12/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,2,680,90,42,12,54
+9/19/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,7306,329,129,29,158
+9/11/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,7,2380,65,41,53,94
+9/6/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,47,14899,429,132,16,148
+9/14/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,37,11285,326,120,28,148
+9/5/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,8,2016,91,52,27,79
+9/11/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,4,1352,48,33,21,54
+9/13/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,11,2739,241,139,19,158
+9/8/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,22,7458,120,64,30,94
+9/18/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,8,1776,85,59,20,79
+9/11/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,7,3521,57,35,59,94
+9/21/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,18,6282,156,81,67,148
+9/7/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,19,6726,240,151,7,158
+9/13/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,1047,61,47,7,54
+9/7/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,16,1424,137,61,18,79
+9/11/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,92,48,6,54
+9/19/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,18,1638,234,73,6,79
+9/13/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,910,136,86,62,148
+9/23/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,780,134,76,72,148
+9/22/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,15,1215,331,132,26,158
+9/1/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,16,1424,218,72,7,79
+9/6/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,623,95,50,4,54
+9/17/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1183,74,56,38,94
+9/1/2025,mumbai,SKU5,Nail Clipper,Hygiene,9,1629,153,82,12,94
+9/21/2025,chennai,SKU5,Nail Clipper,Hygiene,5,815,44,19,35,54
+9/12/2025,delhi,SKU5,Nail Clipper,Hygiene,19,3534,186,137,11,148
+9/15/2025,delhi,SKU5,Nail Clipper,Hygiene,20,3560,169,114,34,148
+9/17/2025,bangalore,SKU5,Nail Clipper,Hygiene,14,2282,327,138,20,158
+9/22/2025,mumbai,SKU5,Nail Clipper,Hygiene,6,978,122,63,31,94
+9/4/2025,delhi,SKU5,Nail Clipper,Hygiene,13,2353,209,133,15,148
+9/2/2025,delhi,SKU5,Nail Clipper,Hygiene,18,3258,206,133,15,148
+9/10/2025,delhi,SKU5,Nail Clipper,Hygiene,14,2604,184,130,18,148
+9/9/2025,bangalore,SKU5,Nail Clipper,Hygiene,20,3720,389,150,8,158
+9/4/2025,hyderabad,SKU5,Nail Clipper,Hygiene,11,1991,243,77,2,79
+9/20/2025,hyderabad,SKU5,Nail Clipper,Hygiene,11,1793,207,70,9,79
+9/9/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,5,945,80,52,42,94
+9/18/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3906,202,74,5,79
+9/23/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,3841,253,76,3,79
+9/11/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,13,2457,73,52,42,94
+9/6/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,22,4092,346,145,13,158
+9/13/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2985,248,142,16,158
+9/10/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,34,6630,213,116,32,148
+9/5/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3760,125,67,27,94
+9/15/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,12,2388,71,42,37,79
+9/20/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3184,303,136,22,158
+9/15/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3980,121,81,67,148
+9/26/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,0,0,161,72,22,94
+9/9/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2744,103,59,35,94
+9/24/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,21,3801,187,104,44,148
+9/2/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3184,249,151,7,158
+9/10/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1380,96,57,37,94
+9/11/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,460,58,39,15,54
+9/17/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,108,59,20,79
+9/23/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,24,4488,207,110,38,148
+9/14/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,63,40,39,79
+9/4/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,8,1592,240,147,11,158
+9/20/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,13,2574,252,142,16,158
+9/7/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,21,4179,239,144,14,158
+9/25/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,113,22487,503,140,8,148
+9/21/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,107,21293,454,134,14,148
+9/3/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,47,9447,232,81,13,94
+9/7/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,78,15678,669,150,8,158
+9/3/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,42,8442,300,70,9,79
+9/22/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,103,20497,747,153,5,158
+9/15/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,39,7761,143,46,8,54
+9/18/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,22,4378,309,135,23,158
+9/24/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,54,10746,318,134,14,148
+9/19/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,29,5771,306,135,23,158
+9/12/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/7/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,88,17600,200,78,16,94
+9/5/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,34,6800,311,143,15,158
+9/18/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,35,6965,300,71,8,79
+9/1/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,27,5400,224,127,31,158
+9/23/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,67,13333,277,75,19,94
+9/23/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,24,6480,137,45,49,94
+9/6/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,5,1570,37,20,34,54
+9/8/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,3,1020,16,8,46,54
+9/18/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,7462,316,126,32,158
+9/25/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,7020,535,140,18,158
+9/7/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,3,762,56,35,19,54
+9/26/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,0,0,78,37,17,54
+9/24/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,29,6496,183,74,20,94
+9/19/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1554,91,46,8,54
+9/11/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,31,10447,172,95,53,148
+9/8/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,5,1685,69,35,44,79
+9/17/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,10,2280,91,45,9,54
+9/25/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,13,2912,338,149,9,158
+9/13/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,14,3486,63,50,29,79
+9/8/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,11,3707,260,141,17,158
+9/21/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1745,56,38,56,94
+9/7/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,28,9856,140,92,56,148
+9/22/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2792,176,70,9,79
+9/10/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,9,4527,250,153,5,158
+9/1/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,6,2124,252,151,7,158
+9/15/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,4,1396,34,21,73,94
+9/25/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,8,624,132,73,75,148
+9/3/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,26,2314,201,74,5,79
+9/23/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,26,2028,261,73,6,79
+9/23/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,858,55,41,53,94
+9/1/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,5,445,98,48,6,54
+9/1/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1157,89,64,84,148
+9/24/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,9,702,146,53,1,54
+9/25/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,8,624,39,27,67,94
+9/1/2025,delhi,SKU5,Nail Clipper,Hygiene,13,2353,203,126,22,148
+9/23/2025,bangalore,SKU5,Nail Clipper,Hygiene,15,2310,327,139,19,158
+9/25/2025,delhi,SKU5,Nail Clipper,Hygiene,14,2100,172,105,43,148
+9/22/2025,delhi,SKU5,Nail Clipper,Hygiene,10,1630,147,99,49,148
+9/8/2025,bangalore,SKU5,Nail Clipper,Hygiene,13,2418,412,151,7,158
+9/14/2025,hyderabad,SKU5,Nail Clipper,Hygiene,13,2314,184,71,8,79
+9/6/2025,mumbai,SKU5,Nail Clipper,Hygiene,12,2172,160,89,5,94
+9/14/2025,chennai,SKU5,Nail Clipper,Hygiene,4,712,70,32,22,54
+9/3/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,25,4650,255,77,2,79
+9/6/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3906,207,72,7,79
+9/7/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,33,6105,254,122,26,148
+9/19/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3720,371,147,11,158
+9/6/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1520,104,51,3,54
+9/1/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,15,2790,312,148,10,158
+9/19/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,13,2418,192,86,8,94
+9/9/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3402,349,138,20,158
+9/8/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,7,1351,100,50,4,54
+9/6/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,26,4836,109,67,27,94
+9/21/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3348,170,99,49,148
+9/11/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1176,42,29,25,54
+9/2/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3760,116,65,29,94
+9/11/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3920,272,143,15,158
+9/2/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,5,940,70,44,10,54
+9/22/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,10,1990,130,44,10,54
+9/1/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,27,5319,196,114,34,148
+9/1/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,12,2388,98,62,32,94
+9/1/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,12,2388,122,64,15,79
+9/17/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,8,1584,78,45,9,54
+9/3/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,32,6304,197,115,33,148
+9/12/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,10,2300,79,51,43,94
+9/11/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,84,17136,294,117,31,148
+9/26/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,0,0,506,94,0,94
+9/4/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,120,23760,405,136,12,148
+9/24/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,64,12736,346,88,6,94
+9/14/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,14,2786,173,44,35,79
+9/15/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,20,3980,183,43,36,79
+9/23/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,53,10547,313,132,16,148
+9/26/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,232,57,22,79
+9/24/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,30,5970,272,60,19,79
+9/14/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,29,5771,278,130,28,158
+9/12/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,22,7480,141,64,15,79
+9/12/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,8970,477,133,15,148
+9/20/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,28,7868,253,77,71,148
+9/8/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,17,5780,84,45,49,94
+9/16/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,9207,164,69,79,148
+9/18/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,18,3996,140,76,18,94
+9/2/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,21,5292,284,149,9,158
+9/12/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,18,6084,247,143,15,158
+9/17/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,36,8208,180,80,14,94
+9/5/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,31,7843,171,80,14,94
+9/3/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,12,3024,114,65,14,79
+9/6/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,30,7470,169,91,57,148
+9/2/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,18,6372,251,152,6,158
+9/8/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,14,7042,233,145,13,158
+9/15/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,14,4886,137,90,58,148
+9/14/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,31,10819,153,100,48,148
+9/10/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,7,3521,70,39,55,94
+9/9/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,6,3018,250,151,7,158
+9/15/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,93,48,31,79
+9/4/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,17,1513,275,131,27,158
+9/26/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,0,0,137,73,75,148
+9/4/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1157,75,42,52,94
+9/18/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,15,1365,351,139,19,158
+9/18/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1183,64,48,46,94
+9/1/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,17,1513,300,139,19,158
+9/3/2025,delhi,SKU5,Nail Clipper,Hygiene,8,1448,201,127,21,148
+9/5/2025,chennai,SKU5,Nail Clipper,Hygiene,5,905,115,45,9,54
+9/4/2025,chennai,SKU5,Nail Clipper,Hygiene,7,1267,121,47,7,54
+9/5/2025,bangalore,SKU5,Nail Clipper,Hygiene,14,2534,418,156,2,158
+9/25/2025,chennai,SKU5,Nail Clipper,Hygiene,12,1800,154,53,1,54
+9/8/2025,delhi,SKU5,Nail Clipper,Hygiene,12,2232,185,127,21,148
+9/25/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,19,3173,412,142,16,158
+9/11/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3780,349,147,11,158
+9/12/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,6,1146,130,53,1,54
+9/5/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,4278,100,67,27,94
+9/17/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,4278,142,65,29,94
+9/17/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,15,2790,143,87,61,148
+9/14/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,26,4836,316,138,20,158
+9/3/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,9,1710,118,53,1,54
+9/2/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,9,1710,124,51,3,54
+9/21/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,17,3162,216,71,8,79
+9/14/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,17,3383,118,61,33,94
+9/19/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,13,2587,198,69,10,79
+9/20/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,19,3781,221,70,9,79
+9/10/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,8,1568,47,28,51,79
+9/17/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,22,4378,114,70,9,79
+9/12/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2744,89,46,33,79
+9/11/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,12,2352,90,54,40,94
+9/5/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,18,3384,89,46,33,79
+9/26/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,0,0,86,41,13,54
+9/21/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,18,3564,255,142,16,158
+9/22/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,14,2772,271,142,16,158
+9/14/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,21,4158,91,54,40,94
+9/5/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,398,60,40,14,54
+9/14/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,236,144,14,158
+9/8/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,32,6560,136,41,38,79
+9/21/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,51,10149,429,72,7,79
+9/19/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,86,17114,834,148,10,158
+9/13/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,32,6368,151,42,37,79
+9/20/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,57,11343,432,74,5,79
+9/18/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,78,15522,781,135,23,158
+9/19/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,38,7562,314,73,6,79
+9/2/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,28,5600,241,136,22,158
+9/12/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,41,8528,83,47,47,94
+9/16/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,58,11542,294,119,29,148
+9/13/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,33,6864,283,142,16,158
+9/17/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/3/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,36,7200,241,71,8,79
+9/7/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,27,5400,312,142,16,158
+9/9/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,17,5780,368,138,20,158
+9/14/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,15,4575,125,47,7,54
+9/7/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,27,8478,168,72,7,79
+9/11/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,11,3740,343,142,16,158
+9/4/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,32,10048,190,64,30,94
+9/15/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,11,3355,101,37,17,54
+9/17/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,6279,125,66,13,79
+9/10/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,32,11008,426,136,12,148
+9/9/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,14,4760,122,57,22,79
+9/26/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,0,0,397,72,22,94
+9/25/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,9,2430,150,45,103,148
+9/21/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,20,5500,147,64,15,79
+9/9/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,8,2720,46,30,64,94
+9/10/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,16,5440,349,144,14,158
+9/14/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,5,1210,67,43,11,54
+9/22/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,31,7378,137,78,70,148
+9/5/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,27,6804,283,144,14,158
+9/13/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,6,1494,66,42,12,54
+9/25/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,5,1120,83,41,13,54
+9/20/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,3,714,86,43,11,54
+9/25/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,30,6720,245,76,18,94
+9/1/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,27,6723,225,103,45,148
+9/2/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1764,119,62,17,79
+9/8/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,8,4024,105,54,40,94
+9/25/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,942,58,37,17,54
+9/2/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,14,4956,138,66,28,94
+9/8/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,25,2275,281,135,23,158
+9/12/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,16,1456,258,127,31,158
+9/9/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,114,74,74,148
+9/17/2025,delhi,SKU5,Nail Clipper,Hygiene,20,3360,164,111,37,148
+9/7/2025,chennai,SKU5,Nail Clipper,Hygiene,6,1086,112,45,9,54
+9/6/2025,bangalore,SKU5,Nail Clipper,Hygiene,13,2353,420,153,5,158
+9/24/2025,delhi,SKU5,Nail Clipper,Hygiene,14,2100,167,105,43,148
+9/2/2025,mumbai,SKU5,Nail Clipper,Hygiene,8,1448,158,88,6,94
+9/20/2025,chennai,SKU5,Nail Clipper,Hygiene,2,326,46,19,35,54
+9/10/2025,mumbai,SKU5,Nail Clipper,Hygiene,14,2604,139,85,9,94
+9/11/2025,hyderabad,SKU5,Nail Clipper,Hygiene,10,1860,210,74,5,79
+9/12/2025,bangalore,SKU5,Nail Clipper,Hygiene,15,2790,372,147,11,158
+9/17/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3906,333,136,22,158
+9/10/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,16,3008,228,119,29,148
+9/20/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,6,1170,134,51,3,54
+9/20/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,22,4092,367,148,10,158
+9/9/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4485,226,124,24,148
+9/1/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,19,3572,94,56,38,94
+9/25/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,4,796,131,45,9,54
+9/24/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4577,253,129,19,148
+9/16/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,18,3582,106,66,13,79
+9/10/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2744,92,55,39,94
+9/8/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,17,3910,227,140,18,158
+9/6/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,14,2786,86,51,28,79
+9/18/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,18,3564,150,77,17,94
+9/11/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,20,4600,96,58,36,94
+9/4/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,20,3980,132,66,28,94
+9/21/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,3,594,74,39,15,54
+9/13/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,214,143,15,158
+9/1/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,15,2985,244,148,10,158
+9/12/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,21,4809,115,69,79,148
+9/9/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,26,5330,117,38,41,79
+9/12/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,89,18245,315,125,23,148
+9/14/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,99,19701,628,149,9,158
+9/14/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,25,4975,125,41,38,79
+9/25/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,41,8159,344,74,5,79
+9/17/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,71,14129,208,77,17,94
+9/16/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,111,22089,480,139,9,148
+9/1/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,75,15075,458,145,13,158
+9/17/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,71,14129,253,69,10,79
+9/9/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,17,3536,324,148,10,158
+9/11/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,24,4992,313,144,14,158
+9/13/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,50,10450,272,121,27,148
+9/15/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,53,10547,261,116,32,148
+9/21/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,5775,154,68,80,148
+9/21/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,16,4400,64,25,29,54
+9/6/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,29,9106,165,69,25,94
+9/18/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,42,12054,292,99,49,148
+9/7/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,42,13314,334,116,32,148
+9/5/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,23,7291,401,123,25,148
+9/22/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,33,9075,485,145,13,158
+9/8/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,16,5376,135,80,68,148
+9/18/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,15,3330,266,146,12,158
+9/1/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,4,1016,80,46,8,54
+9/16/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,13,3120,69,52,27,79
+9/16/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,23,5520,136,77,71,148
+9/23/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,24,7536,286,147,11,158
+9/2/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,1062,77,47,7,54
+9/10/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,5,2515,88,46,33,79
+9/8/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,5,2515,109,54,25,79
+9/24/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,16,5024,205,59,35,94
+9/26/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,0,0,53,32,22,54
+9/7/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1770,74,43,11,54
+9/21/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,13,4537,190,71,8,79
+9/3/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,14,4956,158,71,8,79
+9/19/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,22,7678,228,142,16,158
+9/4/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,21,7392,141,92,56,148
+9/19/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,61,43,51,94
+9/3/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,2,178,101,51,3,54
+9/1/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,890,92,52,42,94
+9/18/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,25,2275,196,64,15,79
+9/8/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,3,273,56,37,57,94
+9/16/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,16,1456,307,122,36,158
+9/8/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,89,42,12,54
+9/21/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,117,67,81,148
+9/5/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,9,801,69,41,53,94
+9/16/2025,bangalore,SKU5,Nail Clipper,Hygiene,12,2004,334,139,19,158
+9/9/2025,hyderabad,SKU5,Nail Clipper,Hygiene,11,2046,223,76,3,79
+9/9/2025,mumbai,SKU5,Nail Clipper,Hygiene,14,2604,145,83,11,94
+9/17/2025,chennai,SKU5,Nail Clipper,Hygiene,5,840,56,25,29,54
+9/12/2025,hyderabad,SKU5,Nail Clipper,Hygiene,9,1674,204,73,6,79
+9/14/2025,delhi,SKU5,Nail Clipper,Hygiene,19,3382,176,121,27,148
+9/15/2025,bangalore,SKU5,Nail Clipper,Hygiene,11,1903,346,137,21,158
+9/26/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,0,0,171,52,2,54
+9/16/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,6,1116,137,61,33,94
+9/10/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3402,123,53,26,79
+9/25/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,25,4175,215,116,32,148
+9/13/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,15,2790,145,57,22,79
+9/17/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,22,4092,189,69,10,79
+9/13/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,27,5373,165,100,48,148
+9/4/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,13,2444,108,55,24,79
+9/14/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,2,398,59,41,13,54
+9/20/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3168,157,75,19,94
+9/16/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,1,198,66,43,11,54
+9/22/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,1,198,75,40,14,54
+9/19/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,4,792,76,42,12,54
+9/10/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,5,1150,59,40,14,54
+9/6/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,10,1990,254,146,12,158
+9/13/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1188,59,43,11,54
+9/12/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,33,6765,177,46,33,79
+9/20/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,100,19900,845,155,3,158
+9/13/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,99,19701,365,120,28,148
+9/5/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,59,11859,218,73,21,94
+9/17/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,97,19303,283,82,12,94
+9/4/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,20,4000,263,135,23,158
+9/18/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,76,15124,318,90,4,94
+9/11/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,52,10816,122,64,30,94
+9/7/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/20/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,25,4975,287,127,31,158
+9/8/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,15,3120,297,141,17,158
+9/25/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,18,3582,374,141,17,158
+9/21/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,15,4125,127,49,45,94
+9/22/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,17,4675,130,47,47,94
+9/4/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,14,4396,180,75,4,79
+9/23/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,33,7392,142,76,72,148
+9/22/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,24,5712,301,142,16,158
+9/24/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,32,7168,197,103,45,148
+9/4/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,4788,292,148,10,158
+9/3/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,11,2794,76,41,13,54
+9/25/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,11,2464,75,42,37,79
+9/13/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,23,8027,149,96,52,148
+9/23/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,27,8478,151,84,64,148
+9/16/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,21,7329,149,89,59,148
+9/19/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,7,2443,80,47,7,54
+9/12/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,15,7545,248,151,7,158
+9/13/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,18,1638,245,117,41,158
+9/23/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,26,2028,341,134,24,158
+9/2/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,979,106,76,72,148
+9/20/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,8,728,114,45,9,54
+9/16/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,112,52,2,54
+9/24/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,20,1560,258,74,5,79
+9/16/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,23,2093,130,66,13,79
+9/20/2025,bangalore,SKU5,Nail Clipper,Hygiene,16,2608,305,130,28,158
+9/25/2025,hyderabad,SKU5,Nail Clipper,Hygiene,7,1050,179,66,13,79
+9/18/2025,bangalore,SKU5,Nail Clipper,Hygiene,17,2771,319,135,23,158
+9/26/2025,delhi,SKU5,Nail Clipper,Hygiene,0,0,179,103,45,148
+9/7/2025,delhi,SKU5,Nail Clipper,Hygiene,17,3077,195,133,15,148
+9/2/2025,hyderabad,SKU5,Nail Clipper,Hygiene,8,1448,235,76,3,79
+9/18/2025,mumbai,SKU5,Nail Clipper,Hygiene,5,840,130,68,26,94
+9/12/2025,mumbai,SKU5,Nail Clipper,Hygiene,16,2976,131,80,14,94
+9/22/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,28,4676,380,151,7,158
+9/25/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,16,2672,252,74,5,79
+9/23/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,25,4175,405,150,8,158
+9/16/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,17,3162,325,135,23,158
+9/17/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,6,1170,144,53,1,54
+9/16/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,10,1950,139,51,3,54
+9/14/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,13,2418,163,94,54,148
+9/7/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3348,97,57,37,94
+9/24/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3507,212,83,11,94
+9/12/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,37,7215,187,110,38,148
+9/24/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4577,397,151,7,158
+9/18/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,12,2388,311,145,13,158
+9/13/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,3,597,57,39,15,54
+9/2/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2820,237,130,28,158
+9/16/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2786,104,71,77,148
+9/3/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3184,246,148,10,158
+9/21/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,140,69,25,94
+9/16/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3168,106,59,20,79
+9/3/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,398,63,42,12,54
+9/7/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,25,4925,154,93,55,148
+9/2/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,398,62,44,10,54
+9/11/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1380,54,37,42,79
+9/9/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,17,3910,230,142,16,158
+9/23/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,19,3534,298,141,17,158
+9/19/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,123,62,17,79
+9/12/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,13,2990,210,134,24,158
+9/24/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,5,905,87,43,11,54
+9/24/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,113,22487,488,141,7,148
+9/3/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,81,16281,534,151,7,158
+9/26/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,0,0,371,70,9,79
+9/13/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,61,12139,91,49,45,94
+9/19/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,37,7363,185,49,5,54
+9/20/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,64,12736,256,82,12,94
+9/5/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,47,9400,249,116,32,148
+9/11/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,33,6897,223,109,39,148
+9/22/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,47,9353,197,67,27,94
+9/3/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,19,3800,250,138,20,158
+9/13/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,18,3744,185,48,31,79
+9/13/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/25/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,32,6368,240,57,22,79
+9/12/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,41,8569,229,110,38,148
+9/19/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,52,10348,309,127,21,148
+9/4/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/1/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,42,8400,271,73,6,79
+9/8/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,30,10320,369,126,22,148
+9/19/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,35,9835,214,89,59,148
+9/15/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,6405,108,53,26,79
+9/13/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,30,9330,452,132,16,148
+9/2/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,32,10144,468,142,6,148
+9/20/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,13,3653,94,37,17,54
+9/3/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,14,4396,383,147,11,158
+9/17/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,10,2990,163,44,10,54
+9/13/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,17,5287,346,130,28,158
+9/11/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,6441,109,67,27,94
+9/20/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,9,2142,113,58,21,79
+9/6/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,36,9108,180,82,12,94
+9/10/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,28,9436,177,97,51,148
+9/10/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,5,1690,51,35,19,54
+9/11/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,6,2022,68,51,28,79
+9/19/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,23,5106,111,69,79,148
+9/4/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,6,1524,63,39,15,54
+9/21/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,4522,99,57,37,94
+9/1/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,22,7766,169,100,48,148
+9/5/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,19,6669,134,92,56,148
+9/4/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5310,228,149,9,158
+9/20/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,25,8725,156,83,65,148
+9/7/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,979,111,78,70,148
+9/25/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,19,1482,365,138,20,158
+9/24/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,5,390,41,32,62,94
+9/26/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,0,0,136,51,3,54
+9/22/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,3,243,54,39,55,94
+9/16/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,910,127,81,67,148
+9/14/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,20,1820,130,81,67,148
+9/26/2025,hyderabad,SKU5,Nail Clipper,Hygiene,0,0,167,64,15,79
+9/5/2025,delhi,SKU5,Nail Clipper,Hygiene,13,2353,198,130,18,148
+9/10/2025,bangalore,SKU5,Nail Clipper,Hygiene,14,2604,376,147,11,158
+9/10/2025,chennai,SKU5,Nail Clipper,Hygiene,4,744,88,39,15,54
+9/13/2025,mumbai,SKU5,Nail Clipper,Hygiene,13,2314,132,75,19,94
+9/25/2025,bangalore,SKU5,Nail Clipper,Hygiene,19,2850,389,154,4,158
+9/26/2025,mumbai,SKU5,Nail Clipper,Hygiene,0,0,141,69,25,94
+9/22/2025,bangalore,SKU5,Nail Clipper,Hygiene,17,2771,306,133,25,158
+9/19/2025,hyderabad,SKU5,Nail Clipper,Hygiene,16,2688,199,69,10,79
+9/6/2025,chennai,SKU5,Nail Clipper,Hygiene,4,724,113,44,10,54
+9/18/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3720,190,84,10,94
+9/12/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,9,1701,59,44,50,94
+9/9/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,17,3213,160,63,16,79
+9/22/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,13,2171,185,81,13,94
+9/4/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,26,4836,106,63,31,94
+9/18/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,13,2418,130,79,69,148
+9/23/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,10,1700,156,53,1,54
+9/16/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,25,4650,186,69,10,79
+9/12/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2940,83,53,41,94
+9/17/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,13,2587,142,66,28,94
+9/21/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2985,299,133,25,158
+9/22/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2985,366,150,8,158
+9/8/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,8,1568,110,61,33,94
+9/22/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,21,4179,243,72,7,79
+9/1/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,19,3572,237,128,30,158
+9/23/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,18,3348,145,71,23,94
+9/18/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,248,146,12,158
+9/4/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2189,96,57,22,79
+9/8/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,460,53,37,17,54
+9/25/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,12,2172,288,142,16,158
+9/15/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,4,792,66,42,37,79
+9/11/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,68,13940,699,153,5,158
+9/8/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,87,17748,320,111,37,148
+9/6/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,53,10653,219,72,22,94
+9/20/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,114,22686,475,142,6,148
+9/22/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,54,10746,170,63,31,94
+9/14/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,46,9154,176,52,2,54
+9/20/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,37,7363,149,40,14,54
+9/24/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,22,4378,400,141,17,158
+9/5/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/16/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,49,9751,257,71,8,79
+9/8/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/24/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/21/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,28,5572,286,122,36,158
+9/11/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,7,2380,97,48,6,54
+9/16/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,25,7450,321,122,36,158
+9/19/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,25,7025,189,63,31,94
+9/16/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,20,5980,204,42,12,54
+9/26/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,0,0,137,62,17,79
+9/4/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,8164,372,142,16,158
+9/24/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,8370,237,90,58,148
+9/13/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,11,3421,154,47,7,54
+9/19/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,24,6744,153,67,12,79
+9/1/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,22,6974,388,122,26,148
+9/25/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,17,4590,126,60,19,79
+9/20/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,8711,169,58,36,94
+9/9/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,5,1685,60,34,45,79
+9/26/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,0,0,337,149,9,158
+9/21/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,13,3094,285,142,16,158
+9/6/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1785,57,37,17,54
+9/24/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,16,3584,90,47,32,79
+9/12/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,21,7119,95,62,32,94
+9/4/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,26,6474,190,96,52,148
+9/15/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,16,5584,227,143,15,158
+9/10/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,1,503,56,41,13,54
+9/5/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,13,4602,143,66,28,94
+9/3/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,1,354,80,46,8,54
+9/24/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,12,3768,143,64,15,79
+9/22/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,27,9423,153,83,65,148
+9/26/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,0,0,122,52,27,79
+9/18/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3839,227,141,17,158
+9/25/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,16,5024,206,71,23,94
+9/16/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1745,76,46,48,94
+9/20/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2792,174,71,8,79
+9/10/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,14,7028,149,90,58,148
+9/9/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,1,503,67,41,13,54
+9/10/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,45,32,62,94
+9/10/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,18,1638,286,132,26,158
+9/2/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,12,1068,89,50,44,94
+9/3/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,9,801,114,80,68,148
+9/11/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,18,1638,284,133,25,158
+9/6/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,12,1068,116,78,70,148
+9/14/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,256,115,43,158
+9/1/2025,hyderabad,SKU5,Nail Clipper,Hygiene,16,2896,244,79,0,79
+9/15/2025,mumbai,SKU5,Nail Clipper,Hygiene,6,1068,133,70,24,94
+9/16/2025,chennai,SKU5,Nail Clipper,Hygiene,8,1376,64,29,25,54
+9/2/2025,bangalore,SKU5,Nail Clipper,Hygiene,15,2715,392,153,5,158
+9/7/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,4278,344,145,13,158
+9/20/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,26,4836,208,70,9,79
+9/13/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,11,2046,113,64,30,94
+9/22/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1384,135,52,2,54
+9/25/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3980,215,68,11,79
+9/12/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,5,980,55,36,18,54
+9/24/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,13,2587,153,71,23,94
+9/25/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2786,381,147,11,158
+9/10/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,4,784,44,30,24,54
+9/19/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,22,4378,92,68,80,148
+9/3/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3008,118,59,20,79
+9/26/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,0,0,364,145,13,158
+9/2/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,24,4464,263,135,13,148
+9/4/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,27,5049,250,128,20,148
+9/18/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,24,4776,160,78,16,94
+9/11/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,15,3420,107,69,79,148
+9/19/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,15,2970,255,145,13,158
+9/16/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2178,94,61,33,94
+9/17/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,15,2970,234,139,19,158
+9/26/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,0,0,149,90,58,148
+9/22/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,25,4950,131,66,28,94
+9/26/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,0,0,91,45,34,79
+9/16/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,33,6534,199,109,39,148
+9/14/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,29,5742,163,93,55,148
+9/20/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,23,4554,187,102,46,148
+9/5/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,18,3564,178,103,45,148
+9/4/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,44,8844,256,64,15,79
+9/2/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,40,8040,217,80,14,94
+9/14/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,92,18308,158,65,29,94
+9/15/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,23,4577,307,140,18,158
+9/4/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,57,11400,256,121,27,148
+9/23/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/19/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,66,13134,298,89,5,94
+9/16/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,32,6368,310,132,26,158
+9/24/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,61,12139,319,84,10,94
+9/5/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,63,12600,220,77,17,94
+9/2/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/14/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/13/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,22,4576,62,35,59,94
+9/16/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,23,6877,130,70,9,79
+9/2/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,6594,196,72,22,94
+9/1/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,18,5652,189,74,5,79
+9/10/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,5,1700,110,54,25,79
+9/26/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,0,0,145,42,106,148
+9/13/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,6531,126,58,21,79
+9/3/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,15,4710,127,45,9,54
+9/15/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,5,1525,33,18,76,94
+9/3/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,42,13188,224,72,22,94
+9/15/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1694,40,32,47,79
+9/23/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,23,5152,141,64,30,94
+9/17/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1645,80,59,20,79
+9/22/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,11,2618,120,57,22,79
+9/15/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,3,726,65,41,13,54
+9/2/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1778,75,47,7,54
+9/23/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,4,896,85,43,11,54
+9/12/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,26,8736,167,91,57,148
+9/21/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,6,2094,77,45,9,54
+9/11/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,20,10040,152,91,57,148
+9/11/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,6,3018,85,45,34,79
+9/22/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,1047,80,46,8,54
+9/7/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2832,114,55,24,79
+9/5/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1770,76,44,10,54
+9/24/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2512,67,43,11,54
+9/9/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,910,108,50,29,79
+9/15/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1183,284,122,36,158
+9/17/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,130,51,3,54
+9/6/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,534,61,37,57,94
+9/7/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,21,1869,288,133,25,158
+9/6/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,20,1780,154,66,13,79
+9/1/2025,bangalore,SKU5,Nail Clipper,Hygiene,23,4163,394,156,2,158
+9/1/2025,chennai,SKU5,Nail Clipper,Hygiene,12,2172,134,50,4,54
+9/13/2025,hyderabad,SKU5,Nail Clipper,Hygiene,9,1602,196,73,6,79
+9/11/2025,bangalore,SKU5,Nail Clipper,Hygiene,12,2232,378,147,11,158
+9/8/2025,mumbai,SKU5,Nail Clipper,Hygiene,9,1674,138,85,9,94
+9/25/2025,mumbai,SKU5,Nail Clipper,Hygiene,7,1050,145,68,26,94
+9/17/2025,hyderabad,SKU5,Nail Clipper,Hygiene,7,1176,169,65,14,79
+9/23/2025,delhi,SKU5,Nail Clipper,Hygiene,8,1240,169,108,40,148
+9/7/2025,hyderabad,SKU5,Nail Clipper,Hygiene,15,2715,245,77,2,79
+9/23/2025,hyderabad,SKU5,Nail Clipper,Hygiene,16,2464,203,74,5,79
+9/10/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,7,1323,69,49,45,94
+9/21/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,9,1755,133,51,3,54
+9/8/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,19,3591,171,66,13,79
+9/5/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,11,2046,214,73,6,79
+9/21/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,17,3162,190,84,10,94
+9/1/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3348,266,78,1,79
+9/15/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,4278,318,134,24,158
+9/1/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,25,4650,148,78,16,94
+9/8/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,27,5076,241,123,25,148
+9/1/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,27,5022,263,124,24,148
+9/13/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,36,6696,200,112,36,148
+9/3/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,26,4810,275,129,19,148
+9/14/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3906,144,58,21,79
+9/23/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,3841,215,118,30,148
+9/24/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,16,2720,158,53,1,54
+9/16/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,4,796,101,43,11,54
+9/23/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4577,220,118,30,148
+9/8/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,36,7020,219,113,35,148
+9/21/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4577,154,97,51,148
+9/18/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,11,2189,128,43,11,54
+9/15/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,18,3582,274,144,14,158
+9/1/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,32,5952,257,131,17,148
+9/12/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,3,690,55,37,17,54
+9/20/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,3,594,72,38,16,54
+9/15/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,25,4950,174,98,50,148
+9/24/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,20,3620,151,65,29,94
+9/2/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,21,4179,127,72,22,94
+9/15/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3168,97,60,34,94
+9/15/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,3,594,61,41,13,54
+9/18/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,32,6336,200,111,37,148
+9/2/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,92,18492,544,149,9,158
+9/25/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,45,8955,413,90,4,94
+9/8/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,9,1845,44,15,39,54
+9/8/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,85,17425,631,146,12,158
+9/4/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,20,4020,81,34,20,54
+9/6/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,30,6030,189,52,27,79
+9/19/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,57,11343,386,73,6,79
+9/19/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,58,11542,161,70,24,94
+9/23/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,41,8159,283,64,15,79
+9/12/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,23,4784,289,140,18,158
+9/18/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/1/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,39,7800,120,50,44,94
+9/17/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,25,4975,301,129,29,158
+9/6/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,52,10400,250,117,31,148
+9/15/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,35,10675,359,138,20,158
+9/5/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,8164,172,67,12,79
+9/6/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,6594,170,72,7,79
+9/24/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,25,6750,274,60,34,94
+9/14/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,34,10370,377,137,21,158
+9/1/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,29,9106,116,61,33,94
+9/11/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,22,7568,430,138,10,148
+9/5/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,8164,184,71,23,94
+9/2/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,16,5024,187,75,4,79
+9/20/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,25,5950,124,65,29,94
+9/21/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,14,3332,114,56,23,79
+9/24/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,20,4480,329,147,11,158
+9/17/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,17,3876,262,136,22,158
+9/13/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,14,3486,69,47,47,94
+9/6/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,21,7371,138,90,58,148
+9/11/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,2,1006,57,41,13,54
+9/1/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,4,1416,81,48,6,54
+9/8/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,1509,71,41,13,54
+9/16/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,7,2443,65,44,10,54
+9/24/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,25,7850,285,146,12,158
+9/19/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,4,1396,165,68,11,79
+9/23/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2512,76,46,8,54
+9/8/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,11,5500,123,78,70,148
+9/11/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,4,364,42,29,65,94
+9/18/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,127,51,3,54
+9/9/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,5,455,51,35,59,94
+9/5/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,22,1958,291,133,25,158
+9/26/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,0,0,238,70,9,79
+9/21/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,16,1456,250,74,5,79
+9/2/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,18,1602,292,133,25,158
+9/18/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1183,128,78,70,148
+9/26/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,0,0,33,25,69,94
+9/20/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,19,1729,124,75,73,148
+9/2/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,23,2047,213,75,4,79
+9/4/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,534,101,51,3,54
+9/12/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,8,728,133,83,65,148
+9/21/2025,hyderabad,SKU5,Nail Clipper,Hygiene,12,1956,214,72,7,79
+9/23/2025,chennai,SKU5,Nail Clipper,Hygiene,4,620,137,51,3,54
+9/18/2025,delhi,SKU5,Nail Clipper,Hygiene,14,2352,157,103,45,148
+9/15/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,11,2046,121,57,37,94
+9/18/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3906,361,144,14,158
+9/24/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,31,5177,217,121,27,148
+9/8/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,10,1890,80,50,44,94
+9/5/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,6,1140,105,52,2,54
+9/6/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,17,3196,128,68,26,94
+9/4/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3008,111,54,40,94
+9/4/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,8,1504,64,42,12,54
+9/8/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2744,221,124,34,158
+9/14/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,26,5174,134,89,59,148
+9/5/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4301,257,130,18,148
+9/23/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,9,1791,148,67,27,94
+9/26/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,0,0,211,69,10,79
+9/23/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,1,188,80,44,10,54
+9/26/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,0,0,155,64,30,94
+9/8/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,14,3220,102,55,39,94
+9/12/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1380,75,48,31,79
+9/20/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,12,2376,127,62,17,79
+9/8/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,17,3876,136,91,57,148
+9/23/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1116,101,49,30,79
+9/15/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,15,2970,232,143,15,158
+9/20/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,63,12537,231,80,14,94
+9/9/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,102,20910,384,132,16,148
+9/15/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,50,9950,136,56,38,94
+9/15/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,35,6965,139,40,39,79
+9/10/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,76,15580,151,62,32,94
+9/3/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,60,12000,235,76,18,94
+9/20/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,44,8756,328,73,6,79
+9/19/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/23/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,30,5970,411,151,7,158
+9/25/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,13,3510,160,44,10,54
+9/2/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,12,3768,131,41,13,54
+9/7/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,4,1256,22,13,41,54
+9/7/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,20,6280,375,139,19,158
+9/24/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,7,1890,184,48,6,54
+9/26/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,0,0,125,33,21,54
+9/14/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,15,4575,110,53,26,79
+9/8/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,21,7140,146,64,15,79
+9/15/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,22,5324,85,45,49,94
+9/23/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,13,2912,98,51,28,79
+9/7/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,31,7750,152,89,59,148
+9/19/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,10,2220,88,58,21,79
+9/12/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,9,3033,74,54,25,79
+9/26/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,0,0,273,79,15,94
+9/6/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,14,3528,290,145,13,158
+9/14/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,26,6292,171,98,50,148
+9/16/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,8,1872,82,44,10,54
+9/18/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,10,2220,83,41,13,54
+9/8/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,1,340,55,35,19,54
+9/26/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,0,0,81,41,38,79
+9/21/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,6,1428,86,43,11,54
+9/1/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,12,3024,121,60,19,79
+9/2/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,27,9531,150,93,55,148
+9/5/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5310,131,65,14,79
+9/12/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,4,2012,54,27,67,94
+9/8/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,19,1729,127,59,20,79
+9/13/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,4,364,102,50,4,54
+9/9/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,10,910,103,52,2,54
+9/26/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,0,0,353,138,20,158
+9/10/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,12,1092,123,81,67,148
+9/3/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,22,1958,286,134,24,158
+9/17/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,8,728,143,67,12,79
+9/3/2025,hyderabad,SKU5,Nail Clipper,Hygiene,5,905,237,78,1,79
+9/18/2025,chennai,SKU5,Nail Clipper,Hygiene,4,672,52,23,31,54
+9/15/2025,hyderabad,SKU5,Nail Clipper,Hygiene,10,1780,185,71,8,79
+9/14/2025,bangalore,SKU5,Nail Clipper,Hygiene,21,3633,355,142,16,158
+9/5/2025,mumbai,SKU5,Nail Clipper,Hygiene,13,2353,157,89,5,94
+9/7/2025,bangalore,SKU5,Nail Clipper,Hygiene,18,3258,416,150,8,158
+9/12/2025,chennai,SKU5,Nail Clipper,Hygiene,4,744,78,36,18,54
+9/22/2025,chennai,SKU5,Nail Clipper,Hygiene,6,978,94,40,14,54
+9/25/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,23,3841,230,84,10,94
+9/1/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1520,114,50,4,54
+9/9/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,10,1920,120,52,2,54
+9/19/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4464,193,68,11,79
+9/11/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3760,217,120,28,148
+9/15/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3348,159,93,55,148
+9/15/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1194,119,56,38,94
+9/6/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1128,51,34,20,54
+9/16/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,12,2388,125,56,38,94
+9/18/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,7,1393,71,51,97,148
+9/7/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1128,47,33,21,54
+9/2/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2820,131,65,14,79
+9/8/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1176,62,36,43,79
+9/20/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,18,3582,146,71,23,94
+9/10/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,22,4312,290,144,14,158
+9/3/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,28,5208,273,138,10,148
+9/5/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,16,3184,116,61,33,94
+9/9/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,10,2300,96,56,38,94
+9/9/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,4,920,62,43,11,54
+9/25/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,4,724,89,42,12,54
+9/17/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,30,5940,193,107,41,148
+9/23/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,40,7960,248,51,3,54
+9/5/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,109,21582,385,133,15,148
+9/2/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,122,24156,442,140,8,148
+9/2/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,49,9849,328,71,8,79
+9/18/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,55,10945,297,72,7,79
+9/15/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,116,23084,448,139,9,148
+9/17/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,43,8557,248,52,2,54
+9/10/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,103,21115,336,126,22,148
+9/21/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,107,21293,789,153,5,158
+9/3/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,25,5025,110,44,10,54
+9/11/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,21,4368,82,38,41,79
+9/2/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,69,13800,229,81,13,94
+9/16/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/1/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/8/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,17,3536,121,42,37,79
+9/25/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,57,11343,359,91,3,94
+9/1/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,55,10945,213,111,37,148
+9/7/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,48,9600,219,108,40,148
+9/9/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,33,6897,250,125,23,148
+9/3/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/9/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,4,1360,87,37,17,54
+9/1/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,15,4710,141,43,11,54
+9/4/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,10,3140,73,30,24,54
+9/24/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,28,7560,504,143,15,158
+9/10/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,6,2040,105,48,6,54
+9/17/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,29,8642,103,51,43,94
+9/2/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,26,8164,395,156,2,158
+9/5/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,9,2826,41,22,32,54
+9/3/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,22,6908,184,75,4,79
+9/26/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,0,0,443,128,30,158
+9/9/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,10664,420,119,29,148
+9/5/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,18,5652,367,148,10,158
+9/11/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,8,2720,110,54,25,79
+9/9/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,15,5055,283,147,11,158
+9/13/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,35,8715,172,100,48,148
+9/22/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,6,1428,85,41,13,54
+9/12/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,6,3018,85,50,29,79
+9/1/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,16,5664,114,65,29,94
+9/18/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5235,102,64,30,94
+9/3/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,12,4248,238,149,9,158
+9/19/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,12,4188,91,54,40,94
+9/15/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,5,1745,57,44,10,54
+9/13/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,1047,53,25,69,94
+9/2/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,9,3186,151,69,10,79
+9/3/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,20,7080,148,94,54,148
+9/18/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,21,7329,140,78,70,148
+9/23/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,12,3768,162,64,15,79
+9/16/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,10,3490,109,63,16,79
+9/6/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,3,1062,73,43,11,54
+9/18/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,4,1396,70,46,8,54
+9/6/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,14,1246,288,131,27,158
+9/7/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,623,58,36,58,94
+9/19/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,130,80,68,148
+9/20/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,22,2002,245,70,9,79
+9/14/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,40,29,65,94
+9/5/2025,hyderabad,SKU5,Nail Clipper,Hygiene,7,1267,246,78,1,79
+9/19/2025,mumbai,SKU5,Nail Clipper,Hygiene,4,672,134,69,25,94
+9/9/2025,chennai,SKU5,Nail Clipper,Hygiene,3,558,93,41,13,54
+9/4/2025,bangalore,SKU5,Nail Clipper,Hygiene,12,2172,412,155,3,158
+9/20/2025,delhi,SKU5,Nail Clipper,Hygiene,12,1956,157,109,39,148
+9/19/2025,bangalore,SKU5,Nail Clipper,Hygiene,14,2282,317,133,25,158
+9/4/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4464,238,77,2,79
+9/14/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3720,128,65,29,94
+9/5/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,25,4625,280,135,13,148
+9/12/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,34,6392,205,115,33,148
+9/22/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,17,2890,252,77,2,79
+9/2/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,20,3720,136,75,19,94
+9/23/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,22,3674,216,83,11,94
+9/26/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,0,0,208,106,42,148
+9/15/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,2,398,58,40,14,54
+9/3/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,17,3196,120,62,32,94
+9/24/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,19,3781,230,73,6,79
+9/5/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,4,752,54,37,17,54
+9/7/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3008,77,40,39,79
+9/14/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,10,1990,64,38,41,79
+9/26/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,0,0,253,123,25,148
+9/17/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,21,4179,90,62,86,148
+9/7/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,24,4776,124,61,33,94
+9/13/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1188,68,43,36,79
+9/4/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,26,5122,177,100,48,148
+9/19/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,29,5742,195,105,43,148
+9/21/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,40,7920,215,114,34,148
+9/18/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,13,2574,125,64,15,79
+9/2/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,25,4925,196,115,33,148
+9/25/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,14,2534,150,68,26,94
+9/13/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,10,1980,69,45,49,94
+9/18/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,5,990,74,42,12,54
+9/19/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,18,3564,150,74,20,94
+9/21/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,14,2772,118,58,21,79
+9/7/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,94,18706,343,124,24,148
+9/11/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,23,4715,87,38,16,54
+9/4/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,71,14271,599,152,6,158
+9/23/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,95,18905,848,155,3,158
+9/1/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,82,16236,388,127,21,148
+9/26/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,0,0,605,144,4,148
+9/6/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,80,16080,675,147,11,158
+9/16/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,72,14328,194,77,17,94
+9/22/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,25,4975,81,25,29,54
+9/19/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,102,20298,456,144,4,148
+9/7/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,5,1005,47,17,37,54
+9/7/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,26,5226,164,47,32,79
+9/26/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,0,0,255,51,3,54
+9/9/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,10,2080,104,40,39,79
+9/5/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,26,5200,170,53,26,79
+9/22/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,19,3781,297,67,12,79
+9/10/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,15,3120,86,38,41,79
+9/21/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,68,13532,220,74,20,94
+9/11/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/26/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/25/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/21/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,42,8358,308,71,8,79
+9/17/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,35,10255,255,81,67,148
+9/18/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,18,5166,134,67,12,79
+9/10/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,12,4080,71,43,51,94
+9/16/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,25,7475,140,67,27,94
+9/10/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,20,6780,106,65,29,94
+9/15/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,27,6534,163,91,57,148
+9/15/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,4598,259,140,18,158
+9/4/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,13,3276,103,58,21,79
+9/5/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,33,8217,182,96,52,148
+9/14/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,23,5566,92,49,45,94
+9/10/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,24,8136,268,147,11,158
+9/7/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,25,6350,147,71,23,94
+9/15/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,6,2094,76,37,42,79
+9/9/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,8,4024,113,51,28,79
+9/6/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3894,115,56,23,79
+9/17/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5235,222,137,21,158
+9/4/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,14,4956,128,65,29,94
+9/20/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,9,3141,75,53,41,94
+9/7/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,16,5664,137,62,32,94
+9/17/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5235,143,80,68,148
+9/17/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,8,2792,113,65,14,79
+9/25/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,12,3768,132,56,23,79
+9/22/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,12,972,260,75,4,79
+9/8/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,13,1183,110,73,75,148
+9/19/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,119,48,6,54
+9/19/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,15,1365,354,138,20,158
+9/25/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,20,1560,253,74,5,79
+9/22/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,891,124,72,76,148
+9/20/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,5,455,62,44,50,94
+9/5/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,534,114,80,68,148
+9/12/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,637,89,46,8,54
+9/12/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,39,27,67,94
+9/17/2025,delhi,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,6,546,126,76,72,148
+9/24/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,17,1326,354,134,24,158
+9/21/2025,delhi,SKU5,Nail Clipper,Hygiene,20,3260,160,108,40,148
+9/16/2025,hyderabad,SKU5,Nail Clipper,Hygiene,13,2223,175,67,12,79
+9/24/2025,bangalore,SKU5,Nail Clipper,Hygiene,8,1200,360,150,8,158
+9/20/2025,mumbai,SKU5,Nail Clipper,Hygiene,9,1467,133,67,27,94
+9/26/2025,bangalore,SKU5,Nail Clipper,Hygiene,0,0,395,148,10,158
+9/21/2025,mumbai,SKU5,Nail Clipper,Hygiene,6,978,126,64,30,94
+9/21/2025,bangalore,SKU5,Nail Clipper,Hygiene,20,3260,291,129,29,158
+9/4/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,5,950,113,53,1,54
+9/24/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,21,3507,263,77,2,79
+9/2/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,18,3348,334,152,6,158
+9/13/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,17,3162,325,143,15,158
+9/9/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,24,4512,235,123,25,148
+9/7/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,6,1140,102,52,2,54
+9/4/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,22,4092,328,147,11,158
+9/7/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,22,4092,189,67,12,79
+9/15/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,15,2790,155,57,22,79
+9/21/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,25,4975,237,71,8,79
+9/7/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,35,6545,243,123,25,148
+9/13/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3184,72,39,40,79
+9/19/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,8,1592,127,44,10,54
+9/23/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,13,2587,386,154,4,158
+9/7/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3760,115,64,30,94
+9/6/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,21,3948,272,141,17,158
+9/14/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,14,2786,262,142,16,158
+9/6/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,3,564,80,42,37,79
+9/23/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1194,135,45,9,54
+9/7/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,30,5640,250,133,25,158
+9/21/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,13,2587,145,68,26,94
+9/25/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,1991,87,41,38,79
+9/17/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,14,2772,116,68,26,94
+9/3/2025,mumbai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,22,4378,132,68,26,94
+9/5/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,11,2189,93,56,23,79
+9/1/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,4,796,65,44,10,54
+9/12/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,50,10250,119,57,37,94
+9/9/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,31,6355,105,43,11,54
+9/25/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,21,4179,277,52,2,54
+9/9/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,86,17630,731,152,6,158
+9/7/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,39,7839,197,63,31,94
+9/23/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,64,12736,409,75,4,79
+9/17/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,99,19701,808,141,17,158
+9/9/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,45,9225,158,52,42,94
+9/4/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,69,13800,218,67,27,94
+9/21/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,73,14527,339,140,8,148
+9/21/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/6/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/8/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,46,9568,134,59,35,94
+9/17/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,35,6965,249,70,9,79
+9/23/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,8370,73,43,105,148
+9/14/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,7,2135,37,20,74,94
+9/4/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,27,8559,313,110,38,148
+9/1/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,13,4082,325,140,18,158
+9/23/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,24,6480,156,65,14,79
+9/25/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,25,5600,200,105,43,148
+9/19/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,28,6216,136,70,24,94
+9/16/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,28,6552,151,73,21,94
+9/16/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,23,5382,262,137,21,158
+9/19/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,18,3996,253,142,16,158
+9/2/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,30,7440,205,100,48,148
+9/1/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,22,5544,283,148,10,158
+9/11/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,21,7098,264,146,12,158
+9/14/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,12,2904,43,35,44,79
+9/20/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,30,7140,116,71,77,148
+9/18/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,10,3490,157,68,11,79
+9/6/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,21,7434,153,67,27,94
+9/3/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,18,6372,154,67,27,94
+9/24/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,26,8164,145,82,66,148
+9/12/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,18,9090,144,87,61,148
+9/6/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,19,6726,239,149,9,158
+9/4/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,11,3894,153,71,8,79
+9/17/2025,mumbai,SKU6,Mild Baby Laundry Detergent,Hygiene,16,5584,71,45,49,94
+9/16/2025,mumbai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,9,819,49,41,53,94
+9/14/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,11,1001,99,50,4,54
+9/20/2025,bangalore,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,12,1092,341,136,22,158
+9/2/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,623,113,53,1,54
+9/12/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,12,1092,114,54,25,79
+9/5/2025,hyderabad,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,14,1246,163,67,12,79
+9/7/2025,chennai,SKU4,Tooth & Gum Cleaning Finger Baby Toothbrush,Oral & Nasal Care,7,623,91,47,7,54
+9/10/2025,hyderabad,SKU5,Nail Clipper,Hygiene,10,1860,211,75,4,79
+9/24/2025,chennai,SKU5,Nail Clipper,Hygiene,9,1350,148,52,2,54
+9/16/2025,delhi,SKU5,Nail Clipper,Hygiene,13,2236,160,113,35,148
+9/6/2025,delhi,SKU5,Nail Clipper,Hygiene,12,2172,196,131,17,148
+9/11/2025,delhi,SKU5,Nail Clipper,Hygiene,14,2604,190,133,15,148
+9/14/2025,mumbai,SKU5,Nail Clipper,Hygiene,10,1780,130,70,24,94
+9/4/2025,mumbai,SKU5,Nail Clipper,Hygiene,8,1448,150,88,6,94
+9/8/2025,chennai,SKU5,Nail Clipper,Hygiene,13,2418,106,44,10,54
+9/6/2025,hyderabad,SKU5,Nail Clipper,Hygiene,13,2353,246,78,1,79
+9/8/2025,hyderabad,SKU5,Nail Clipper,Hygiene,21,3906,233,76,3,79
+9/11/2025,chennai,SKU5,Nail Clipper,Hygiene,6,1116,85,38,16,54
+9/18/2025,hyderabad,SKU5,Nail Clipper,Hygiene,13,2184,199,71,8,79
+9/11/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,3,576,112,51,3,54
+9/2/2025,hyderabad,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,15,2790,262,78,1,79
+9/20/2025,delhi,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,28,5208,178,109,39,148
+9/26/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,0,0,414,144,14,158
+9/15/2025,chennai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,8,1560,131,52,2,54
+9/20/2025,mumbai,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,16,2976,199,86,8,94
+9/10/2025,bangalore,SKU7,Baby Bottle & Nipple Brush,Feeding Essentials,19,3591,353,150,8,158
+9/23/2025,hyderabad,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,18,3582,243,75,4,79
+9/21/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,6,1194,134,44,10,54
+9/24/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,5,995,131,44,10,54
+9/9/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,15,2940,279,146,12,158
+9/6/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,40,7480,264,131,17,148
+9/19/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3184,142,71,23,94
+9/3/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,22,4136,231,133,25,158
+9/3/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,8,1504,74,45,9,54
+9/17/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,16,3184,305,135,23,158
+9/22/2025,mumbai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,20,3980,136,64,30,94
+9/25/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,24,4776,259,125,23,148
+9/8/2025,chennai,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,3,588,42,31,23,54
+9/19/2025,bangalore,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,21,4179,318,147,11,158
+9/11/2025,delhi,SKU10,Anti-Bacterial Baby Liquid Cleanser,Hygiene,23,4485,200,114,34,148
+9/7/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,2,398,56,39,15,54
+9/6/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,27,5319,172,99,49,148
+9/16/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,15,2970,220,138,20,158
+9/4/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,6,1194,61,42,12,54
+9/6/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,3,597,57,38,16,54
+9/22/2025,hyderabad,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,12,2376,112,56,23,79
+9/11/2025,bangalore,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,10,2300,209,136,22,158
+9/14/2025,chennai,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,3,594,61,42,12,54
+9/9/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,18,4104,130,82,66,148
+9/22/2025,delhi,SKU9,Anti-Bacterial Baby Liquid Cleanser (Refill),Hygiene,26,5148,198,108,40,148
+9/11/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,16,3280,79,26,53,79
+9/12/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,28,5740,76,34,20,54
+9/5/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,94,18894,700,149,9,158
+9/22/2025,delhi,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,105,20895,473,136,12,148
+9/24/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,30,5970,300,52,2,54
+9/5/2025,chennai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,15,3015,62,25,29,54
+9/12/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,89,18245,674,150,8,158
+9/15/2025,bangalore,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,80,15920,635,149,9,158
+9/23/2025,mumbai,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,54,10746,278,71,23,94
+9/22/2025,hyderabad,SKU2,Caring Baby Wipes with Aloe Vera - Pack of 3,Baby Wipes,58,11542,446,76,3,79
+9/26/2025,mumbai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,431,92,2,94
+9/10/2025,chennai,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,0,0,0,0,54,54
+9/25/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,45,8955,332,135,13,148
+9/2/2025,hyderabad,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,27,5400,242,69,10,79
+9/10/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,39,8151,243,115,33,148
+9/8/2025,delhi,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,41,8528,215,109,39,148
+9/22/2025,bangalore,SKU1,Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free,Baby Wipes,27,5373,368,154,4,158
+9/3/2025,delhi,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,40,12680,381,132,16,148
+9/20/2025,hyderabad,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,28,7868,161,65,14,79
+9/23/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,30,8100,445,138,20,158
+9/12/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,12,4080,60,35,59,94
+9/25/2025,mumbai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,31,8370,317,68,26,94
+9/23/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,13,3510,165,45,9,54
+9/19/2025,chennai,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,8,2248,107,42,12,54
+9/6/2025,bangalore,SKU8,Gentle Wet Baby Wipes with Aloe Vera - Pack of 5,Baby Wipes,19,5966,370,137,21,158
+9/22/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,12,2856,113,61,33,94
+9/17/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,33,7755,134,77,71,148
+9/21/2025,delhi,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,27,6426,120,76,72,148
+9/24/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,7,1568,89,40,14,54
+9/2/2025,mumbai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,33,8349,189,78,16,94
+9/7/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,4788,281,145,13,158
+9/10/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,5,1685,72,54,25,79
+9/6/2025,hyderabad,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,6,1512,83,45,34,79
+9/5/2025,chennai,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,3,765,62,40,14,54
+9/23/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,19,4256,307,137,21,158
+9/20/2025,bangalore,SKU3,Mild Baby Laundry Detergent Refill,Hygiene,20,4760,252,141,17,158
+9/13/2025,bangalore,SKU6,Mild Baby Laundry Detergent,Hygiene,15,5235,236,148,10,158
+9/26/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,0,0,159,79,69,148
+9/14/2025,hyderabad,SKU6,Mild Baby Laundry Detergent,Hygiene,9,3141,78,40,39,79
+9/25/2025,delhi,SKU6,Mild Baby Laundry Detergent,Hygiene,21,6594,136,76,72,148
+9/4/2025,chennai,SKU6,Mild Baby Laundry Detergent,Hygiene,7,2478,80,47,7,54
