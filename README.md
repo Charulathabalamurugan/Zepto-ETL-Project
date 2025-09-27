@@ -8,31 +8,20 @@ Domain: Inventory Management & Stock Availability
 Problem: Need real-time stock availability tracking across multiple cities with hierarchical product relationships
 Solution: End-to-end ETL pipeline + Advanced REST API with performance optimization
 
-🚀 Project Architecture
-┌─────────────────────────────────────────────────────────────────┐
-│                    ZEPTO STOCK AVAILABILITY SYSTEM             │
-└─────────────────────────────────────────────────────────────────┘
-                                   │
-                ┌──────────────────┼──────────────────┐
-                │                  │                  │
-        ┌───────▼────────┐ ┌───────▼────────┐ ┌───────▼────────┐
-        │   DATA LAYER   │ │  API LAYER     │ │ OPTIMIZATION   │
-        │                │ │                │ │    LAYER       │
-        │ • Web Scraping │ │ • REST API     │ │ • Caching      │
-        │ • Data Loading │ │ • Filtering    │ │ • Indexing     │
-        │ • ETL Pipeline │ │ • Pagination   │ │ • Performance  │
-        └────────────────┘ └────────────────┘ └────────────────┘
+
 🔧 Technical Components
 1. Web Scraping Module (Python)
 File: scraper.py
 Technology: Selenium WebDriver
+
+
 Features:
 Multi-city scraping capability
 Geographic location switching via cookies
 Infinite scroll handling
 Product data extraction (name, price, stock, images)
 CSV export functionality
-2. ETL Pipeline (Python + Node.js)
+3. ETL Pipeline (Python + Node.js)
 Files: download_stock_data.py, database/setup.js
 Data Sources:
 Google Sheets integration (1,300+ real stock records)
@@ -41,7 +30,7 @@ Transformations:
 Parent-child SKU hierarchy creation
 Data multiplication and variation algorithms
 Multi-city data generation
-3. Database Layer (SQLite)
+4. Database Layer (SQLite)
 Files: database/config.js, optimized_stock_db.py
 Schema Design:
 Main table: stock_data_optimized (3,120+ records)
@@ -51,7 +40,7 @@ Optimizations:
 WAL mode for concurrent access
 Memory-based temp storage
 Pre-calculated aggregations
-4. REST API Server (Node.js + Express)
+5. REST API Server (Node.js + Express)
 File: server.js
 Endpoints: 7 comprehensive API endpoints
 Features:
@@ -60,7 +49,7 @@ Advanced filtering, sorting, pagination
 Performance benchmarking
 Cache management
 Security middleware
-5. Caching & Performance Layer
+6. Caching & Performance Layer
 Technology: Node-Cache + SQLite optimizations
 Features:
 Multi-level caching strategy
